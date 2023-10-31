@@ -1,0 +1,30 @@
+{
+  "title": "FEEDBACK FROM DeSpace PROJECTS",
+  "des": "What contributors says about the ecosystem.",
+  "opinion":[
+    {
+      "name": "Rod Mamin",
+      "dig": "CEO, LunCo",
+      "img": "/assets/images/testimonial/user-thumb-one.jpg",
+      "comment": "I dedicated my whole life to developping decentralized lunar space engineering and I am grateful I do it thanks to initiatives like DeSpace QF"
+    },
+    {
+      "name": "Adam",
+      "dig": "CMO, Alpha Persei",
+      "img": "/assets/images/testimonial/user-thumb-two.jpg",
+      "comment": "There is a total shift of paradigm, and being here make me feel I am part of the shift."
+    },
+    {
+      "name": "Red Boumghar",
+      "dig": "CEO, parametry.ai",
+      "img": "/assets/images/testimonial/user-thumb-three.jpg",
+      "comment": "The world is moving fast, space faster, DeSpace QF is for me a way to keep up with it, and to provide our project, Space DAO a solid sustainable base of people and funds."
+    },
+    {
+      "name": "Dockrel Kahn",
+      "dig": "PM, Walmet",
+      "img": "/assets/images/testimonial/user-thumb-four.jpg",
+      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+    }
+  ]
+}
