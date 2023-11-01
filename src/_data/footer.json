@@ -16,7 +16,7 @@
   "siteMapHeading":"Sitemap",
   "siteMap":[
     {
-      "link":"home",
+      "link":"/home",
       "text":"About Company"
     },
     {
