@@ -1,7 +1,7 @@
 ---
 subTitle: "MOON" 
 title: "LunCo"
-img: "/assets/images/projects/project.jpg"
+img: "/assets/images/projects/project.png"
 linkText: "view project"
 featureImg1: ""
 featureImg2: ""

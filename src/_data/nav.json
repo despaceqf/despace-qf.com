@@ -1,0 +1,6 @@
+{
+  "navLogo":"/assets/images/logo.png",
+  "navLinks":["home","docs","projects","blog"],
+  "navBtnLink":"https://builder.gitcoin.co/#/chains/10/rounds/0xcf3545cd02aa62dc9198887f8df0e0cf21f6e1c3",
+  "navBtnText":"We're live"
+}

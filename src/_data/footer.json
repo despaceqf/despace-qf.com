@@ -1,0 +1,69 @@
+{
+  "footerLogo": "/assets/images/logo-footer.png",
+
+  "contactsHeading": "Contact Info",
+  "contactsInfo":[
+    {
+      "link":"https://moon.google.com",
+      "text":"Various Places on the Moon"
+    },
+    {
+      "link":"mailto:",
+      "text":"info@despace-qf.com"
+    }
+  ],
+
+  "siteMapHeading":"Sitemap",
+  "siteMap":[
+    {
+      "link":"home",
+      "text":"About Company"
+    },
+    {
+      "link":"https://builder.gitcoin.co/#/chains/10/rounds/0xcf3545cd02aa62dc9198887f8df0e0cf21f6e1c3",
+      "text":"Despace Gitcoin"
+    },
+    {
+      "link":"https://giveth.io/project/despace-qf-regenerative-space-exploration",
+      "text":"Despace Giveth"
+    },
+    {
+      "link":"portfolio",
+      "text":"Projects"
+    },
+    {
+      "link":"privacy-policy",
+      "text":"Privacy Policy"
+    },
+    {
+      "link":"terms-conditions",
+      "text":"Terms & Condition"
+    }
+  ],
+
+  "socialHeading":"Social Media",
+  "socialMedia":[
+    {
+      "link":"https://twitter.com/despaceqf/",
+      "text":"Twitter"
+    },
+    {
+      "link":"https://www.linkedin.com/company/despace-qf",
+      "text":"LinkedIN"
+    },
+    {
+      "link":"https://github.com/despaceqf/despace-qf.com",
+      "text":"Github"
+    },
+    {
+      "link":"https://fosstodon.org/@despaceqf",
+      "text":"Mastodon/Fosstodon"
+    }
+  ],
+  
+  "brandHeading":"We help DeSpace projects:",
+  "brandMotto":["develop solutions to sustain the regen space economy","produce valuable projects","create fresh web3 experience"],
+
+  "back2topIcon":"/assets/images/to-top.svg",
+  "customerComment":"I want to visit again"
+}

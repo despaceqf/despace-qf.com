@@ -1,7 +1,7 @@
 ---
 subTitle: "IN-SPACE SERVICES" 
 title: "Space DAO"
-img: "/assets/images/projects/project.jpg"
+img: "/assets/images/projects/project.png"
 linkText: "view project"
 featureImg1: ""
 featureImg2: ""

@@ -1,7 +1,7 @@
 ---
 subTitle: "ACCESS" 
 title: "Alpha Persei"
-img: "/assets/images/projects/project-alphapersei.jpg"
+img: "/assets/images/projects/project.png"
 linkText: "view project"
 featureImg1: ""
 featureImg2: ""

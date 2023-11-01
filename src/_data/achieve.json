@@ -1,0 +1,21 @@
+{
+  "title": "Proof in the pudding!",
+  "achievements":[
+    {
+      "title": "Collected so far",
+      "counter": "2500"
+    },
+    {
+      "title": "Projects Listed",
+      "counter": "12"
+    },
+    {
+      "title": "Open Discussions",
+      "counter": "351"
+    },
+    {
+      "title": "Open Source Assets",
+      "counter": "34"
+    }
+  ]
+}
