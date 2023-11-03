@@ -1,0 +1,12 @@
+{
+  "heading":"You can be part of it",
+  "submitBtn":{
+    "btnText":"Register your project",
+	"formtarget": "blank",
+    "btnLink":"https://giveth.com"
+  },
+  "convBtn":{
+    "btnText":"Not Convinced",
+    "btnLink":"portfolio"
+  }
+}
