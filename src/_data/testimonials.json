@@ -1,30 +1,36 @@
 {
-  "title": "FEEDBACK FROM DeSpace PROJECTS",
-  "des": "What contributors says about the ecosystem.",
+  "title": "Our Founding Stewards",
+  "des": "Together makers of the DeSpace ecosystem.",
   "opinion":[
     {
       "name": "Rod Mamin",
-      "dig": "CEO, LunCo",
-      "img": "/assets/images/testimonial/user-thumb-one.jpg",
-      "comment": "I dedicated my whole life to developping decentralized lunar space engineering and I am grateful I do it thanks to initiatives like DeSpace QF"
+      "dig": "LunCo, MoonDAO",
+      "img": "/assets/images/team/rodmamin.jpg",
+      "comment": "Rod Mamin is a systems engineer, with commercial experience building and sending robots to the Moon, Founder of LunCo.Space, Grantee on DeSci & Open Source Software Gitcoin’s GR15, Alpha Round, Beta Round and MoonDAOs Space Engineering Guild Initiator and Ex-Steward."
+    },
+    {
+      "name": "Manuel Olariu",
+      "dig": "DeepVenture.io, Copernic Space, MoonDAO",
+      "img": "/assets/images/team/manuelolariu.jpg",
+      "comment": "Manuel Olariu is the founder of DeepVenture.io and with Copernic Space he is building a space asset marketplace leading Innovation and IP standards. He is responsible for MoonDAO B2B while he is supporting various Decentralized Science and Decentralized Space activities. He led the last community-driven #GitcoinBeta Decentralized Science Grants Round utilizing Gitcoin's Grants Stack where MoonDAO played a critical part as the main initial sponsor of the Round."
+    },
+    {
+      "name": "redotics",
+      "dig": "Parametry.ai, LibreCube Foundation, SpaceDAO.ai",
+      "img": "/assets/images/team/redboumghar.jpg",
+      "comment": "Red Boumghar is the CEO of Parametry.ai, a new space startup in incubation at the European Space Agency to develop the Space DAO project. Red graduated from the Creative Destruction lab for its massive impact project and vision."
+    },
+    {
+      "name": "PaulBurg_",
+      "dig": "ReFi Phangan, EcoSynthesisX",
+      "img": "/assets/images/team/paulburg.jpg",
+      "comment": "Pavel Anisimov is an environmental scientist, with experience in public goods and decentralized communities. He is a flockchain and space enthusiast and founder of ReFi Phangan (GreenPill local chapter/ReFi DAO hub) and EcoSynthesisX."
     },
     {
       "name": "Adam",
-      "dig": "CMO, Alpha Persei",
-      "img": "/assets/images/testimonial/user-thumb-two.jpg",
-      "comment": "There is a total shift of paradigm, and being here make me feel I am part of the shift."
-    },
-    {
-      "name": "Red Boumghar",
-      "dig": "CEO, parametry.ai",
-      "img": "/assets/images/testimonial/user-thumb-three.jpg",
-      "comment": "The world is moving fast, space faster, DeSpace QF is for me a way to keep up with it, and to provide our project, Space DAO a solid sustainable base of people and funds."
-    },
-    {
-      "name": "Dockrel Kahn",
-      "dig": "PM, Walmet",
-      "img": "/assets/images/testimonial/user-thumb-four.jpg",
-      "comment": "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+      "dig": "SpaceRoxDAO, Alpha Persei",
+      "img": "/assets/images/team/adamboyle.jpg",
+      "comment": "Adam Boyle is the founder of SpaceRoxDAO supporting public goods in Space and one of the Core members at Alpha Persei."
     }
   ]
 }

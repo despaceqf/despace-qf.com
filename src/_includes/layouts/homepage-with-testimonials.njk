@@ -105,40 +105,34 @@
       </div>
     </section>
 
-    <section class="site-team">
+    <section class="site-testimonial">
       <div class="container">
         <div class="row">
           <div class="col-12">
             <div class="section-title">
               <h2>
-                {{team.title}}
+                {{testimonials.title}}
               </h2>
-              <h4>
-                {{team.subtitle}}
-              </h4>
+              <p>
+                {{testimonials.des}} 
+              </p>
             </div>
           </div>
-          {% for teamMember in team.teamMembers %}
+          {% for opinion in testimonials.opinion %}
           <div class="col-lg-4 col-md-6">
-            <div class="site-team-member">
-              <div class="site-team-member-image">
-                <img src="{{teamMember.img}}" alt="team-member">
+            <div class="site-testimonial-item">
+              <div class="site-testimonial-item-header">
+                <div class="thumb">
+                  <img src="{{opinion.img}}" alt="user-thumb">
+                </div>
+                <div class="person">
+                  <h5>{{opinion.name}}</h5>
+                  <p>{{opinion.dig}}</p>
+                </div>
               </div>
-              <div class="site-team-member-content">
-                <h3>{{teamMember.name}}</h3>
-                <p>{{teamMember.dig}}</p>
-                <p>{{teamMember.comment}}</p>
-				
-                <ul class="site-team-member-social">
-                  {% for social in teamMember.social %}
-                  <li>
-                    <a href="{{social.link}}">
-                      <i class="fa fa-{{social.icon}}"></i>
-                    </a>
-                  </li> 
-                  {% endfor %}
-                </ul>
-              </div>
+              <p class="site-testimonial-item-body">
+                {{opinion.comment}}
+              </p>
             </div>
           </div> 
           {% endfor %}

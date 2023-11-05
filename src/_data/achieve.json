@@ -1,21 +1,21 @@
 {
-  "title": "Proof in the pudding!",
+  "title": "Achievement since the Gitcoin Grant Round 18",
   "achievements":[
     {
       "title": "Collected so far",
       "counter": "2500"
     },
     {
-      "title": "Projects Listed",
+      "title": "DeSpace Projects Listed",
       "counter": "12"
     },
     {
-      "title": "Open Discussions",
-      "counter": "351"
+      "title": "Hours of open discussions",
+      "counter": "183"
     },
     {
       "title": "Open Source Assets",
-      "counter": "34"
+      "counter": "32"
     }
   ]
 }

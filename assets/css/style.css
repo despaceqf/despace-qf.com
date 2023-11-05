@@ -1,8 +1,10 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
 
-PROJECT:	Roxo HTML
+Initially by PROJECT:	Roxo HTML
 VERSION:	1.0.0
+
+Now adapted for project DeSpace-QF
 -------------------------------------------------------------------*/
 @import url("localfonts.css");
 body {
@@ -104,7 +106,7 @@ h6 {
 }
 
 .btn-primary {
-  background: #EAA4A4;
+  background: #281414;
   color: #fff;
 }
 .btn-primary:hover {
@@ -112,7 +114,7 @@ h6 {
 }
 
 .btn-secondary {
-  background: #ADD6D2;
+  background: #338bc2;
   color: #fff;
 }
 .btn-secondary:hover {
@@ -153,7 +155,7 @@ body {
   margin-bottom: 30px;
   padding: 0 0 10px 0;
   border-width: 0 0 1px 0;
-  border-color: #EAA4A4;
+  border-color: #281414;
   font-weight: 300;
   letter-spacing: 1px;
   -webkit-appearance: none;
@@ -307,11 +309,22 @@ textarea.form-control {
   }
 }
 .site-hero-content h1 {
-  margin-bottom: 75px;
+  margin-bottom: 10px;
+}
+.site-hero-content h4 {
+  margin-bottom: 10px;
+}
+.site-hero-content p {
+  color: #555555;
 }
 @media (max-width: 991px) {
   .site-hero-content h1 {
     font-size: 30px;
+  }
+}
+@media (max-width: 991px) {
+  .site-hero-content h2 {
+    font-size: 15px;
   }
 }
 .site-hero-content-buttons {
@@ -355,7 +368,7 @@ textarea.form-control {
 .site-counter {
   padding: 85px 0;
   color: #fff;
-  background: #ADD6D2;
+  background: #338bc2;
 }
 .site-counter .section-title {
   margin-bottom: 40px;
@@ -394,23 +407,31 @@ textarea.form-control {
 .site-project-item-thumb img, .site-blog-post-thumb img {
   width: 100%;
 }
+.site-content {
+  position: relative;
+  background: #EFEFEF;
+  color: #555555;
+  width: 100%;
+  padding: 30px 50px;
+  bottom: 0;
+}
 .site-project-item-content, .site-blog-post-content {
   position: absolute;
-  background: #F7F9FF;
+  background: #E4E4E9;
   width: 100%;
-  padding: 45px 50px;
+  padding: 15px 50px;
   bottom: 0;
   transition: all 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);
 }
 @media (max-width: 767px) {
   .site-project-item-content, .site-blog-post-content {
     padding: 30px;
-    padding-bottom: 75px;
+    padding-bottom: 50px;
   }
 }
 .site-project-item-content span, .site-blog-post-content span {
   font-family: "Montserrat", sans-serif;
-  color: #EAA4A4;
+  color: #A89494;
   display: block;
   margin-bottom: 10px;
 }
@@ -422,7 +443,7 @@ textarea.form-control {
   bottom: 40px;
   display: block;
   width: 100%;
-  color: #9D9EA5;
+  color: #7D7E85;
   opacity: 0;
   transform: translateY(20px);
   transition: all 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);
@@ -450,7 +471,7 @@ textarea.form-control {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
-  color: #EAA4A4;
+  color: #281414;
 }
 .site-project-cta::before {
   content: "";
@@ -1030,7 +1051,7 @@ textarea.form-control {
 }
 
 .site-footer {
-  background: #ADD6D2;
+  background: #338bc2;
   padding: 100px 0;
 }
 .site-footer-logo {

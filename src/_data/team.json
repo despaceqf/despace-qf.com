@@ -1,117 +1,88 @@
 {
-  "title": "team that makes the difference.",
+  "title": "Our Founding Stewards",
+  "subtitle": "Together makers of the DeSpace ecosystem",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
-      "dig": "Creative Director",
-      "img": "/assets/images/team/team-member-one.jpg",
+      "name": "Rod Mamin",
+      "dig": "LunCo, MoonDAO",
+      "img": "/assets/images/team/rodmamin.jpg",
+      "comment": "Rod Mamin is a systems engineer, with commercial experience building and sending robots to the Moon, Founder of LunCo.Space, Grantee on DeSci & Open Source Software Gitcoin’s GR15, Alpha Round, Beta Round and MoonDAOs Space Engineering Guild Initiator and Ex-Steward.",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/_Difint_"
         },
         {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/rod-mamin-2a48a12b/"
         }
       ]
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
-      "img": "/assets/images/team/team-member-two.jpg",
+      "name": "Manuel Olariu",
+      "dig": "DeepVenture.io, Copernic Space, MoonDAO",
+      "img": "/assets/images/team/manuelolariu.jpg",
+      "comment": "Manuel Olariu is the founder of DeepVenture.io and with Copernic Space he is building a space asset marketplace leading Innovation and IP standards. He is responsible for MoonDAO B2B while he is supporting various Decentralized Science and Decentralized Space activities. He led the last community-driven #GitcoinBeta Decentralized Science Grants Round utilizing Gitcoin's Grants Stack where MoonDAO played a critical part as the main initial sponsor of the Round.",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/ManuelOlariu"
         },
         {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/manuelolariu/"
         }
       ]
     },
     {
-      "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
-      "img": "/assets/images/team/team-member-three.jpg",
+      "name": "redotics",
+      "dig": "Parametry.ai, LibreCube Foundation, SpaceDAO.ai",
+      "img": "/assets/images/team/redboumghar.jpg",
+      "comment": "Red Boumghar is the CEO of Parametry.ai, a new space startup in incubation at the European Space Agency to develop the Space DAO project. Red graduated from the Creative Destruction lab for its massive impact project and vision.",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/redotics"
         },
         {
           "icon": "linkedin",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/boumghar/"
         },
         {
           "icon": "instagram",
-          "link": "#"
+          "link": "https://instagram.com/redsharpbyte"
         }
       ]
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
-      "img": "/assets/images/team/team-member-four.jpg",
+      "name": "PaulBurg_",
+      "dig": "ReFi Phangan, EcoSynthesisX",
+      "img": "/assets/images/team/paulburg.jpg",
+      "comment": "Pavel Anisimov is an environmental scientist, with experience in public goods and decentralized communities. He is a flockchain and space enthusiast and founder of ReFi Phangan (GreenPill local chapter/ReFi DAO hub) and EcoSynthesisX.",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/PaulBurg_"
         },
         {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/paul-burg-pavel-anisimov-17ab1259/"
         }
       ]
     },
     {
-      "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
-      "img": "/assets/images/team/team-member-five.jpg",
+      "name": "Adam Boyle",
+      "dig": "SpaceRoxDAO, Alpha Persei",
+      "img": "/assets/images/team/adamboyle.jpg",
+      "comment": "Adam Boyle is the founder of SpaceRoxDAO supporting public goods in Space and one of the Core members at Alpha Persei.",
       "social":[
         {
-          "icon": "medium",
-          "link": "#"
+          "icon": "twitter",
+          "link": "https://twitter.com/adamjboyle"
         },
         {
           "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
-      "img": "/assets/images/team/team-member-six.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
+          "link": "https://www.linkedin.com/in/adamjboyle/"
         }
       ]
     }
