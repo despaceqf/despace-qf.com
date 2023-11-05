@@ -22,7 +22,7 @@
               {% set previousPost = collections.portfolios | getPreviousCollectionItem(page) %}
               
               <div class="site-project-single-action d-flex justify-content-between">
-                {% if previousPost%}
+                {% if previousPost %}
                 <a href="{{previousPost.url}}">
                   <img class="rev" src="/assets/images/to-top.svg" alt="next project">
                   <span class="link-area">
