@@ -58,9 +58,9 @@
             {% for navLink in nav.navLinks %}
             <li class="nav-item">
               {% if navLink == "home" %}
-                <a class="nav-link" href="/">{{navLink | capitalize}}</a>
+                <a class="nav-link" href="/">{{navLink.text | capitalize}}</a>
               {% else %}
-                <a class="nav-link" href="/{{navLink}}">{{navLink | capitalize}}</a> 
+                <a class="nav-link" href="{{navLink.link}}">{{navLink.text | capitalize}}</a> 
               {% endif %} 
             </li>
             {% endfor %}

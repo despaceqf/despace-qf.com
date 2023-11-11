@@ -6,11 +6,11 @@ hero:
     firstPara: "DeSpace QF"
     abstract: "The next space industry revolution is going to be driven by
     decentralization (from Web2 to Web3). Important Decentralized Space projects
-    are leveraging open source, blockchai and community-driven initiatives to
+    are leveraging open source, blockchain and community-driven initiatives to
     democratize space activities and foster inclusivity, sustainability and
-    innivation. ace Exploration Ecosystem for public goods funding, we propose
-    the DeSpace Quadratic Funding Grants Round. This initiative aims to raise
-    and distribute funds to support the DeSpace ecosystem."
+    innovation. 
+    The DeSpace Quadratic Funding Grant initiative aims to raise
+    and distribute funds to support a highly disruptive ecosystem."
   seeWorkBtn:
     text: "Sponsor"
     link: "#project"

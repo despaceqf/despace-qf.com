@@ -1,7 +1,7 @@
 ---
 subTitle: "SPACE DATA TRUST" 
 title: "Space DAO"
-img: "/assets/images/projects/project.png"
+img: "/assets/images/projects/spacedao-logo-square-massivecollab.png"
 linkText: "view project"
 featureImg1: ""
 featureImg2: ""
