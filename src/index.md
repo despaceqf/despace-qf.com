@@ -1,5 +1,6 @@
 ---
 layout: "layouts/homepage.njk"
+round_id: "0x911ae126be7d88155aa9254c91a49f4d85b83688"
 hero:
   subTitle: "Decentralized Space Exploration, Quadratic Funding"
   title:
@@ -12,11 +13,11 @@ hero:
     The DeSpace Quadratic Funding Grant initiative aims to raise
     and distribute funds to support a highly disruptive ecosystem."
   seeWorkBtn:
-    text: "Sponsor"
-    link: "#project"
+    text: "Apply"
+    link: "https://builder.gitcoin.co/#/chains/42161/rounds/0x911ae126be7d88155aa9254c91a49f4d85b83688"
   connectBtn: 
-    text: "Register your project"
-    link: "contact"
+    text: "Donate"
+    link: "https://explorer.gitcoin.co/#/round/42161/0x911ae126be7d88155aa9254c91a49f4d85b83688"
 
 portfolio:
   subTitle: "LATEST JOINING PROJECTS"
@@ -49,5 +50,7 @@ howitworks:
         <li>Gitcoin Allo Protocol & Grants Stack will be used for distribution (each
         selected project has to follow Gitcoin Rules)</li>
     </ul>
+    <a href="https://grants.gitcoin.co/#gg19-rounds">We're live on the Gitcoin Grants page - see Independent Rounds</a>
+    <br/>The current round identification is: <a href="{{hero.connectBtn.link}}">{{round_id}}</a>
   </div>
 </div>
